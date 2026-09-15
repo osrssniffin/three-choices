@@ -34,8 +34,7 @@ import net.runelite.client.ui.overlay.OverlayManager;
 @PluginDescriptor(
     name = "Three Choices",
     description = "Earn points, reveal three progression-matched upgrades, choose one, and build a unique restricted account",
-    tags = {"gamemode", "points", "unlock", "choices", "threechoices"},
-    enabledByDefault = false
+    tags = {"gamemode", "points", "unlock", "choices", "threechoices"}
 )
 public class ThreeChoicesPlugin extends Plugin
 {
